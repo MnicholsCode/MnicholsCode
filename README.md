@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MnicholsCode
 - 👀 I’m interested in Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning Java and Database design.
+- 🌱 I’m currently learning Machine Learning, Experimental Design and Project Management.
 - 💞️ I’m looking to collaborate on projects that are data driven, to expand my knowledge and help where I can.
 - 📫 How to reach me; email: malcolm_nichols@yahoo.com
 
